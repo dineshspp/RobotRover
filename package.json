@@ -1,0 +1,23 @@
+{
+  "name": "robotrover",
+  "version": "1.0.0",
+  "description": "Robot Rover node application",
+  "main": "main.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dineshspp/robot-rover.git"
+  },
+  "keywords": [
+    "robot",
+    "rover"
+  ],
+  "author": "Dinesh Madheswaran",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dineshspp/robot-rover/issues"
+  },
+  "homepage": "https://github.com/dineshspp/robot-rover#readme"
+}
